@@ -8,7 +8,7 @@ Creating this table takes time. And does not always goes right the first time.
 
 Based on the total width of the image, a table is now generated for you.
 
-![] (![Slice example](https://github.com/Yzerrr/img-slicing/blob/master/img/slice-example.png)
+![Slice example](https://github.com/Yzerrr/img-slicing/blob/master/img/slice-example.png)
 
 ![Slice example](https://github.com/Yzerrr/img-slicing/blob/master/img/slice-.jpg)
-
+[Tfd](https://www.thefrontdoor.nl/)
