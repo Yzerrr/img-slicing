@@ -7,5 +7,5 @@ The image is pre-sliced in photoshop. Then the user has to make an html table hi
 Creating this table takes time. And does not always goes right the first time.
 
 Based on the total width of the image, a table is now generated for you.
-![Slice example]()
+![Slice example](https://github.com/Yzerrr/img-slicing/blob/master/img/slice-.jpg)
 ![Slice example]()
