@@ -1,0 +1,15 @@
+body{
+    background-color: #d6d6d6;
+}
+form {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    position: fixed;
+    top: 25%;
+    width: 335px;
+}
+
+.copy{
+    margin-top: -150px;
+}
