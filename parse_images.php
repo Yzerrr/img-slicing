@@ -94,19 +94,7 @@ if (isset($_FILES['image'])) {
         }
     }
 
-//	$html .= "\t\t<tr>\n";
-//	$html .= "<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"" . $maxWidthInput . "\">\n";
-//	$html .= "\t\t\t</tr>\n";
-//	foreach ($chunkWidthArray as $chunk) {
-//	    foreach ($chunk as $imageArray) {
-//			if ($imageArray['width'] < $maxWidthInput) {
-//				$html .= "\t\t\t\t<td width=\"" . $imageArray['width'] . "\">" . "</td>\n";    /*. $imageArray['image_name']  For the image path*/
-//			}
-//		}
-//	}
-//
-//	$html .= "\t\t\t</table>\n";
-//	$html .= "\t\t</tr>\n";
+
 
     $html .= "\t</tbody>\n";
     $html .= "</table>";
@@ -161,47 +149,3 @@ if (isset($_FILES['image'])) {
     }
 </script>
 
-
-<!--<phpp>-->
-<!--?>-->
-<!---->
-<!---->
-<!---->
-<!--<!DOCTYPE html>-->
-<!--<html>-->
-<!--<head>-->
-<!--    <!-- Latest compiled and minified CSS -->
-<!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"-->
-<!--          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">-->
-<!--    <!-- custom style-->
-<!--    <link rel="stylesheet" href="styles.css">-->
-<!--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
-<!---->
-<!---->
-<!--</head>-->
-<!--<title>Parse Images UI</title>-->
-<!--<body>-->=
-<!--<div class="container">-->
-<!--    <div class="row">-->
-<!--        <div class="col-sm-offset-4 col-sm-4">-->
-<!--            <button class=" copy btn btn-primary" onclick="copyToClipboard('#copyBtn')">Copy the Table</button>-->
-<!--        </div>-->
-<!--    </div>-->
-<!--</div>-->
-<!--</body>-->
-<!---->
-<!--</html>-->
-<!--<script type="text/javascript">-->
-<!--    function copyToClipboard(element) {-->
-<!--        var $temp = $("<input>");-->
-<!--        $("body").append($temp);-->
-<!--        $temp.val($(element).text()).select();-->
-<!--        document.execCommand("copy");-->
-<!--        $temp.remove();-->
-<!--    }-->
-<!--</script>-->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
